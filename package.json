@@ -1,0 +1,50 @@
+{
+  "name": "sum-quangbao",
+  "version": "1.0.2",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+	"sum-quangbao":"^1.0.0",
+	"sum-quangbao":"^1.0.0",
+    "sum-xuanthinh":"^1.0.0",
+    "sum-khuongdua" :"^1.0.0",
+    "sum-ngobaothanh":"^1.0.0",
+    "sum-hoanghung":"^1.0.0",
+    "sum-lare8693":"^1.0.0",
+    "sum-hufforinsiw":"^1.0.0",
+    "sum-lekangdo":"^1.0.0",
+    "sum-vubaodan":"^1.0.0",
+    "sum-thuongdieu":"^1.0.0",
+    "sum-bangquangtran":"^1.0.0",
+    "sum-loarengaloi":"^1.0.0",
+    "sum-huyongume":"^1.0.0",
+    "sum-hoangkimchi":"^1.0.0",
+    "sum-khamthien":"^1.0.0",
+    "sum-quangtantran":"^1.0.0",
+    "sum-thanhbienpham":"^1.0.0",
+    "sum-feradila":"^1.0.0",
+    "sum-quangdongcao":"^1.0.0",
+    "sum-xuyenchi":"^1.0.0",
+    "sum-setpass": "^1.0.0",
+    "sum-setpass": "^1.0.0",
+    "sum-giahuyluong": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quangbaotran82/sum-quangbao"
+  },
+  "homepage": "https://twitter.com/Domoniq02190065",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "quangbao",
+  "license": "MIT"
+}
